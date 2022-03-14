@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html
+  class="no-js" lang="en" prefix="og: http://ogp.me/ns#"
+      data-webpack-scripts-path="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/scripts/"
+    data-webpack-manifest="&#x7B;&quot;inert-54KU.c&quot;&#x3A;&quot;inert-54KU-6105748439.c.chunk.js&quot;,&quot;intersection-observer-p3C9.c&quot;&#x3A;&quot;intersection-observer-p3C9-dfd7088cdf.c.chunk.js&quot;,&quot;preact-components&quot;&#x3A;&quot;preact-components-9f4394e151.chunk.js&quot;,&quot;prism&quot;&#x3A;&quot;prism-b108a51261.chunk.js&quot;,&quot;timeline-03hH.c&quot;&#x3A;&quot;timeline-03hH-465e901fd3.c.chunk.js&quot;&#x7D;"
+    data-ajax-url="https://www.xfive.co/wp-admin/admin-ajax.php"
+  data-google-analytics-tracking-id="UA-9575836-1"
+  data-recaptcha-site-key="6LdgAMcUAAAAAHd2LUPm23soLwW76p7h5NB5OP41"
+  data-animate-enter=""
+>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preload" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/fonts/manrope-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/fonts/manrope-medium.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/fonts/manrope-semibold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/fonts/manrope-bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg" as="image" type="image/svg+xml">
+  <link rel="stylesheet" property="stylesheet" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/styles/main-6b25261556.css" type="text/css">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/favicon-16x16.png">
+  <link rel="mask-icon" href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="pinterest" content="nohover" />
+  <script>document.querySelector('html').classList.remove('no-js');</script>
+  <script>
+    if (!window.matchMedia('(prefers-reduced-motion)').matches && document.documentElement.dataset.animateEnter === '1') {
+      document.documentElement.classList.add('is-waiting-for-animations');
+    }
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9575836-1"></script>
+      <script>
+    window.addEventListener("error",function(e){var n=String(e.error||e);e.error&&e.error.stack&&(n+="\n"+e.error.stack),window.gtag&&window.gtag("event","exception",{description:n,fatal:!1})});
+    window.addEventListener("unhandledrejection",function(e){var n="Unhandled promise rejection:\n";e.reason&&e.reason.stack?n+=String(e.reason.stack):n+=String(e.reason),window.gtag&&window.gtag("event","exception",{description:n,fatal:!1})});
+    document.addEventListener("securitypolicyviolation",function(e){var n="CSP violation - directive: "+e.violatedDirective+", url: "+e.blockedURI;window.gtag&&window.gtag("event","exception",{description:n,fatal:!1})});
+  </script>
+  <script>
+    (function() {
+      var trackingId = document.documentElement.dataset.googleAnalyticsTrackingId;
+      if(trackingId) {
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', trackingId);
+      } else {
+        window.gtag = function gtag(){}
+      }
+    })();
+  </script>
+  
+        <script>
+      (function() {
+        var d = document.documentElement.dataset;
+        var p = d.webpackScriptsPath;
+        var wm = window.webpackManifest = JSON.parse(d.webpackManifest);
+        Object.keys(wm).forEach(function(n){wm[n]=p+wm[n]});
+      })();
+    </script>
+    <script src="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/scripts/ie-polyfills-e8ac0886e4.bundle.js" nomodule defer></script>
+  <script src="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/scripts/app-367709748b.bundle.js" defer></script>
+  <script>
+    var ajaxurl = document.documentElement.dataset.ajaxUrl;
+  </script>
+  <link rel="pingback" href="https://www.xfive.co/xmlrpc.php" />
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Xfive.co 2019 - Designed and Built for Business - Xfive</title>
+	<meta name="description" content="Xfive has undergone a brand refresh. In this article we will take a closer look into how we built our new website." />
+	<link rel="canonical" href="https://www.xfive.co/blog/xfive-2019-designed-built-for-business/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Xfive.co 2019 - Designed and Built for Business - Xfive" />
+	<meta property="og:description" content="Xfive has undergone a brand refresh. In this article we will take a closer look into how we built our new website." />
+	<meta property="og:url" content="https://www.xfive.co/blog/xfive-2019-designed-built-for-business/" />
+	<meta property="og:site_name" content="Xfive" />
+	<meta property="article:published_time" content="2019-07-15T13:21:36+00:00" />
+	<meta property="article:modified_time" content="2021-12-10T06:58:37+00:00" />
+	<meta property="og:image" content="https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-fb.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Lubos Kmetko" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="8 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.xfive.co/#website","url":"https://www.xfive.co/","name":"Xfive","description":"Delivering digital products since 2005","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.xfive.co/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/#primaryimage","inLanguage":"en-US","url":"https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-fb.jpg","contentUrl":"https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-fb.jpg","width":1200,"height":630},{"@type":"WebPage","@id":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/#webpage","url":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/","name":"Xfive.co 2019 - Designed and Built for Business - Xfive","isPartOf":{"@id":"https://www.xfive.co/#website"},"primaryImageOfPage":{"@id":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/#primaryimage"},"datePublished":"2019-07-15T13:21:36+00:00","dateModified":"2021-12-10T06:58:37+00:00","author":{"@id":"https://www.xfive.co/#/schema/person/f8199015a4968bf275c77ff8561f6bee"},"description":"Xfive has undergone a brand refresh. In this article we will take a closer look into how we built our new website.","breadcrumb":{"@id":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.xfive.co/blog/xfive-2019-designed-built-for-business/"]}]},{"@type":"BreadcrumbList","@id":"https://www.xfive.co/blog/xfive-2019-designed-built-for-business/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.xfive.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.xfive.co/blog/"},{"@type":"ListItem","position":3,"name":"Xfive.co 2019 &#8211; Designed and Built for Business"}]},{"@type":"Person","@id":"https://www.xfive.co/#/schema/person/f8199015a4968bf275c77ff8561f6bee","name":"Lubos Kmetko","image":{"@type":"ImageObject","@id":"https://www.xfive.co/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/5042a5d6a022f26a68263e33de6cc840?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/5042a5d6a022f26a68263e33de6cc840?s=96&d=mm&r=g","caption":"Lubos Kmetko"},"description":"Lubos Kmetko started to work for Xfive as a front-end developer in 2006. He currently helps with business operations and writes for the Xfive blog.","sameAs":["https://www.linkedin.com/in/luboskmetko/"],"url":"https://www.xfive.co/blog/author/lubos-kmetko/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Xfive &raquo; Xfive.co 2019 &#8211; Designed and Built for Business Comments Feed" href="https://www.xfive.co/blog/xfive-2019-designed-built-for-business/feed/" />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="https://api.w.org/" href="https://www.xfive.co/wp-json/" /><link rel="alternate" type="application/json" href="https://www.xfive.co/wp-json/wp/v2/posts/4681" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.xfive.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.xfive.co/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.xfive.co/?p=4681' />
+<link rel="alternate" type="application/json+oembed" href="https://www.xfive.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.xfive.co%2Fblog%2Fxfive-2019-designed-built-for-business%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.xfive.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.xfive.co%2Fblog%2Fxfive-2019-designed-built-for-business%2F&#038;format=xml" />
+
+    </head>
+
+<body class="post-template-default single single-post postid-4681 single-format-standard">
+  <div class="js-enter-animation-helpers c-enter-animation-helpers"></div>
+  <svg aria-hidden="true" class="c-icons-inline" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol id="icon-inline-x" viewBox="0 0 27 27">
+      <path d="M26.8561 0.8193L19.074 11.3633L15.0808 5.9328L18.853 0.8193H26.8561Z"/>
+      <path d="M18.8275 26.4221L15.0808 21.3427L19.074 15.9123L26.8308 26.4221H18.8275Z"/>
+      <path d="M17.4764 13.6381L8.0373 26.4221H0.0253013L9.45611 13.6381L0 0.8193H8.01181L17.4764 13.6381Z"/>
+    </symbol>
+    <symbol id="icon-inline-logo" viewBox="0 0 109 37">
+      <use xlink:href="#icon-inline-x" x="0" y="10" width="27" height="27" fill="#DD2424"/>
+      <path d="M96.0093 10.2174C88.8415 10.2174 83.0103 16.2242 83.0103 23.6091C83.0103 30.993 88.8415 37 96.0093 37C101.055 37 105.655 33.9727 107.784 29.2703H101.279C99.8698 30.7317 98.0006 31.5367 96.0091 31.5367C92.7468 31.5367 89.8677 29.3529 88.8446 26.1018L88.7915 25.9348H108.799C108.933 25.1666 109 24.3841 109 23.6091C109 16.2244 103.173 10.2174 96.0093 10.2174ZM88.8 21.275L88.8531 21.108C89.8762 17.8569 92.7518 15.6731 96.0093 15.6731C99.2618 15.6731 102.134 17.8569 103.156 21.108L103.21 21.275H88.8Z"/>
+      <path d="M37.1084 6.93621C38.1129 6.03655 39.4114 5.95024 41.5887 5.95024L42.766 5.93683L42.7693 0L40.1789 0.0159404C37.002 0.0577353 34.4549 0.956813 32.768 2.53783C30.81 4.38167 29.8979 6.73462 29.8979 10.288V36.419H36.0228V16.7191L36.1506 16.7184L42.7691 16.7108V10.8193H36.0228V10.2878C36.023 8.72698 36.2532 7.70213 37.1084 6.93621Z"/>
+      <path d="M63.2958 10.8193H56.7485L66.3914 36.4172H73.5899L83.2353 10.8193H76.6873L69.9757 30.016L63.2958 10.8193Z"/>
+      <path d="M53.6616 10.8193H47.5408V36.4172H53.6616V10.8193Z"/>
+      <path d="M53.6515 0.0418091H47.5391V5.9176H53.6515V0.0418091Z"/>
+    </symbol>
+  </defs>
+</svg>
+  <div class="c-contact-overlay js-work-with-us">
+  <div class="c-contact-overlay__background"></div>
+
+  <div class="c-contact-overlay-module js-work-with-us-scrollable js-work-with-us-toggle js-work-with-us-toggle-only-self">
+    <div class="c-contact-overlay-module__container js-contact-overlay-container">
+      <button class="c-contact-overlay-module__close js-work-with-us-toggle"></button>
+      <div class="c-contact-overlay-module__inner">
+        <div class="c-contact-overlay-module__column c-contact-overlay-module__form">
+          
+<div class="c-contact-form c-contact-form--overlay js-contact-form-wrapper ">
+  <div class="c-contact-form__inner is-open js-contact-form-content">
+    <h2 class="o-heading-with-mark">Get in touch</h2>
+    <div class="c-contact-form__desc">Let us know your requirements and we'll get back to you as soon as possible. </div>
+
+    <form class="o-form js-contact-form ">
+      <div class="o-form__row o-form__row--half">
+        <input name="name" type="text" id="cf-name" class="o-form__input placeholder-shown js-input-float" required>
+        <label for="cf-name">Name*</label>
+      </div>
+      <div class="o-form__row o-form__row--half">
+        <input name="email" type="email" id="cf-email" class="o-form__input placeholder-shown js-input-float" value="" required>
+        <label for="cf-email">Email*</label>
+      </div>
+      <div class="o-form__row">
+        <textarea name="message" id="cf-message" rows="1" class="o-form__input placeholder-shown js-input-float js-input-expand" required></textarea>
+        <label for="cf-message">Message*</label>
+      </div>
+      <div class="o-form__row">
+        <div class="c-drop-zone js-drop-zone">
+  <input type="file" class="u-hidden js-drop-zone-input" multiple />
+  <div class="c-drop-zone__top">
+    <div class="c-drop-zone__top-text">
+      Drop files here or <a href="#" role="button" class="c-drop-zone__top-text-button js-drop-zone-button js-button-keyboard-trigger">click to upload</a>
+    </div>
+  </div>
+  <div class="c-drop-zone__file-list-wrapper js-drop-zone-file-list-wrapper"></div>
+</div>
+      </div>
+      <div class="js-contact-form-recaptcha"></div>
+      <input type="hidden" name="lead_source" value="Xfive.co">
+      <input type="hidden" name="referrer" value="Xfive.co 2019 - Designed and Built for Business - Xfive">
+      <input type="hidden" name="page_uri" value="/blog&#x2F;xfive-2019-designed-built-for-business">
+      <div class="c-contact-form__note">
+        <p>We care about your <a href="https://www.xfive.co/privacy/" target="_blank" rel="noopener">privacy</a> and automatically agree to the following <a href="https://www.xfive.co/nda/" target="_blank" rel="noopener">NDA</a>. This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank" rel="noopener">Terms of Service</a> apply.</p>
+
+      </div>
+      <div class="o-form__row">
+        <div class="c-contact-form__message c-contact-form__message--error js-contact-form-error-message"></div>
+        
+  <input type="submit" class="js-button-submit-submitter u-hidden" />
+<div
+  class="
+    c-arrow-button c-arrow-button--tag-button c-arrow-button--is-active c-arrow-button--loader-when-submitting
+    js-contact-form-button
+    js-button-keyboard-trigger
+    js-button-submit
+    
+    
+  "
+  
+  
+  role="button" tabindex="0"
+  
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          Submit
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</div>
+      </div>
+    </form>
+  </div>
+
+  <div class="c-contact-form__message c-contact-form__message--success js-contact-form-success-message">
+    <div class="c-contact-form__message-inner">
+      <h2 class="o-heading-with-mark">Thank you, <span class="js-contact-form-name"></span>!</h2>
+      <div class="c-contact-form__desc c-contact-form__desc--success">Thank you very much for submitting your inquiry to Xfive! We'll be in touch with you soon.</div>
+    </div>
+  </div>
+</div>
+        </div>
+
+        <div class="c-contact-overlay-module__column c-contact-overlay-module__testimonial">
+          
+<div class="c-contact-testimonial c-contact-testimonial--overlay">
+  <div class="c-contact-testimonial__inner">
+    <div class="c-contact-testimonial__image">
+      
+<div class="o-picture o-picture--testimonial-contact o-picture--still " >
+  <picture class="o-picture__inner">
+              <source data-srcset="https://www.xfive.co/wp-content/uploads/2019/01/gopika.jpg.webp 460w, https://www.xfive.co/wp-content/uploads/2019/01/gopika-348x318.jpg.webp 348w, https://www.xfive.co/wp-content/uploads/2019/01/gopika-260x237.jpg.webp 260w" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="200px" type="image/webp">
+      <source data-srcset="https://www.xfive.co/wp-content/uploads/2019/01/gopika.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/01/gopika-348x318.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/01/gopika-260x237.jpg 260w" sizes="200px" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" type="image/jpeg">
+        <img class="o-picture__image lazyload " data-src="https://www.xfive.co/wp-content/uploads/2019/01/gopika-260x237.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Gopika Setlur">
+  </picture>
+  </div>
+    </div>
+    <blockquote>
+      <header class="c-contact-testimonial__details">
+        <cite>Gopika Setlur</cite>
+        <span class="c-post__meta-sep">|</span>
+        <cite><a href="https://elefintdesigns.com/" class="c-contact-testimonial__link">Elefint Designs, Inc.</a></cite>
+      </header>
+      <article class="c-contact-testimonial__quote">
+        Xfive is an extremely reliable and professional development partner. They have helped us improve our process and offerings. We really appreciate their flexibility, quality, and attention to detail.
+      </article>
+    </blockquote>
+  </div>
+</div>
+
+                      <div class="c-contact-clutch c-contact-clutch--overlay">
+              <div class="c-contact-testimonial__inner">
+                <div
+                  class="clutch-widget"
+                  data-url="https://widget.clutch.co"
+                  data-widget-type="2"
+                  data-height="50"
+                  data-clutchcompany-id="102433"
+                  data-darkbg="1"
+                ></div>
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <div class="c-sidebar-logo js-sidebar-logo">
+  <div class="c-sidebar-logo__inner">
+    <a href="/" rel="home" class="c-logo" aria-label="Xfive">
+  <div class="c-logo__inner">
+    <svg class="c-logo__icon" role="img">
+      <use xlink:href="#icon-inline-logo"></use>
+    </svg>
+  </div>
+</a>
+  </div>
+</div>
+    
+<div class="c-sidebar js-sidebar">
+  <div class="c-sidebar__background"></div>
+  <div class="c-sidebar__content">
+    <div class="c-sidebar__section c-sidebar__section--breadcrumbs">
+      <div class="c-sidebar__breadcrumbs-col">
+        <div class="c-sidebar__breadcrumbs-spacer"></div>
+        <div class="c-sidebar__breadcrumbs-wrapper">
+          <div class="c-sidebar__vertical">
+            <div class="c-sidebar__breadcrumbs"><span><a href="/">Home</a></span><span class="c-sidebar__breadcrumbs-separator">&nbsp;</span><span><a href="https://www.xfive.co/blog/">Blog</a></span><span class="c-sidebar__breadcrumbs-separator">&nbsp;</span><span class="c-sidebar__breadcrumbs-last">Xfive.co 2019 - Designed and Built for Business</span></div>          </div>
+        </div>
+        <div class="c-sidebar__breadcrumbs-spacer"></div>
+      </div>
+    </div>
+
+    <div class="c-sidebar__section c-sidebar__section--menu">
+      <div class="c-sidebar__menu-button-wrapper">
+        <div class="js-sidebar-nav-toggle js-sidebar-nav-button js-button-keyboard-trigger c-sidebar__menu-button" role="button" tabindex="0">
+          <div class="c-sidebar__menu-button-inner">
+            <div class="c-sidebar__menu-button-line"></div>
+            <div class="c-sidebar__menu-button-line"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+  
+
+  
+
+  <nav class="c-sidebar-nav js-sidebar-nav">
+    <div class="c-sidebar-nav__scrollable js-sidebar-nav-scrollable">
+      <div class="o-wrapper o-wrapper--main c-sidebar-nav__wrapper">
+        <div class="c-sidebar-nav__inner">
+          <div class="c-sidebar-nav__inner-spacer"></div>
+          <div class="c-sidebar-nav__inner-centered">
+            <ul class="c-sidebar-nav__list">
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-56 c-sidebar-nav__item c-sidebar-nav__item--big c-sidebar-nav__item--indent-big">
+                  <a href="https://www.xfive.co/services/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Services
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-55 c-sidebar-nav__item c-sidebar-nav__item--big c-sidebar-nav__item--indent-big">
+                  <a href="https://www.xfive.co/works/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Work
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-57 c-sidebar-nav__item c-sidebar-nav__item--big c-sidebar-nav__item--indent-big">
+                  <a href="https://www.xfive.co/about/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      About
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-58 c-sidebar-nav__item c-sidebar-nav__item--big c-sidebar-nav__item--indent-big">
+                  <a href="https://www.xfive.co/blog/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Blog
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-59 c-sidebar-nav__item c-sidebar-nav__item--indent-small">
+                  <a href="https://www.xfive.co/testimonials/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Testimonials
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-60 c-sidebar-nav__item c-sidebar-nav__item--indent-small">
+                  <a href="https://www.xfive.co/contact/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Contact
+                    </div>
+                  </a>
+                </li>
+                                                                              <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-61 c-sidebar-nav__item c-sidebar-nav__item--indent-medium">
+                  <a href="https://xfive.recruitee.com/" class="c-sidebar-nav__link">
+                    <div class="c-sidebar-nav__item-text">
+                      Jobs
+                    </div>
+                  </a>
+                </li>
+                            <li class="c-sidebar-nav__item">
+                <a
+  href="#get-in-touch"
+  class="c-work-with-us-link js-work-with-us-toggle"
+>
+  <span class="c-work-with-us-link__text">Get in touch</span><div class="o-icon o-icon--inline o-icon--icon-arrow-right-spaced"><svg class="o-icon__symbol"><use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right-spaced" /></svg></div></a>
+              </li>
+            </ul>
+          </div>
+          <div class="c-sidebar-nav__inner-spacer"></div>
+        </div>
+      </div>
+    </div>
+    <picture class="c-sidebar-nav__image js-sidebar-nav-image" aria-hidden="true">
+      <source data-srcset="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-small.webp 455w, https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-med.webp 815w, https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-big.webp 1630w" sizes="43vh" type="image/webp">
+      <source data-srcset="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-small.jpg 455w, https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-med.jpg 815w, https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-big.jpg 1630w" sizes="43vh" type="image/jpeg">
+      <img class="lazyload lazypreload" data-src="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/sidebar-navigation-small.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+    </picture>
+  </nav>
+    <div class="c-sidebar-border"></div>
+  
+      <header class="c-header js-header">
+  <div class="o-wrapper o-wrapper--main">
+    <div class="c-header__inner">
+      <div class="c-header__left">
+        <div class="c-header__logo">
+          <a href="/" rel="home" class="c-logo" aria-label="Xfive">
+  <div class="c-logo__inner">
+    <svg class="c-logo__icon" role="img">
+      <use xlink:href="#icon-inline-logo"></use>
+    </svg>
+  </div>
+</a>
+        </div>
+                  <nav class="c-header__nav">
+            <ul class="c-header__nav-list">
+                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-41 c-header__nav-item">
+                  <a href="https://www.xfive.co/services/" class="c-header__nav-link">Services</a>
+                </li>
+                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-40 c-header__nav-item">
+                  <a href="https://www.xfive.co/works/" class="c-header__nav-link">Work</a>
+                </li>
+                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-42 c-header__nav-item">
+                  <a href="https://www.xfive.co/about/" class="c-header__nav-link">About</a>
+                </li>
+                              <li class=" menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-43 c-header__nav-item">
+                  <a href="https://www.xfive.co/blog/" class="c-header__nav-link">Blog</a>
+                </li>
+                              <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-4511 c-header__nav-item">
+                  <a href="https://www.xfive.co/contact/" class="c-header__nav-link">Contact</a>
+                </li>
+                          </ul>
+          </nav>
+              </div>
+      <div class="c-header__right">
+        <div class="c-header__menu">
+          <div class="js-sidebar-nav-toggle js-button-keyboard-trigger c-header__menu-button" role="button" tabindex="0" aria-label="Menu">
+            <div class="c-header__menu-button-inner">
+              <div class="c-header__menu-button-line"></div>
+              <div class="c-header__menu-button-line"></div>
+            </div>
+          </div>
+        </div>
+        <div class="c-header__work">
+          <a
+  href="#get-in-touch"
+  class="c-work-with-us-link c-work-with-us-link--framed js-work-with-us-toggle"
+>
+  <span class="c-work-with-us-link__text">Get in touch</span><div class="o-icon o-icon--inline o-icon--icon-arrow-right-spaced"><svg class="o-icon__symbol"><use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right-spaced" /></svg></div></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+  
+  <main>
+      <article id="post-4681" class="c-post">
+    <section class="o-section o-section--less-v-spacing">
+      <div class="o-wrapper o-wrapper--extreme">
+        <div class="o-text-content o-text-content--no-mark">
+          <p class="c-post__meta">
+            Jul 15, 2019
+            <span class="u-hidden-large-down">
+              <span class="c-post__meta-sep">|</span>
+              <a href="/blog/author/lubos-kmetko/">Lubos Kmetko</a> <span class="c-post__meta-sep">|</span>
+              <a href="https://www.xfive.co/blog/category/web-development/">Web Development</a> <span class="c-post__meta-sep">|</span>
+                                                                                      <a href="#comments" data-js-scroll>Add Comment</a>
+            </span>
+          </p>
+
+          <h1 class="c-post__title">Xfive.co 2019 &#8211; Designed and Built for Business</h1>
+
+          <p class="c-post__meta u-hidden-large-up">
+            <a href="/blog/author/lubos-kmetko/">Lubos Kmetko</a> <span class="c-post__meta-sep">|</span>
+            <a href="https://www.xfive.co/blog/category/web-development/">Web Development</a>
+          </p>
+
+        </div>
+      </div>
+    </section>
+
+    <div class="o-wrapper o-wrapper--big">
+      
+<figure class="o-picture o-picture--blog o-picture--still c-featured-picture" data-js-parallax-effect=".o-picture__inner">
+  <picture class="o-picture__inner">
+              <source data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized.jpg.webp 3000w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2920x1947.jpg.webp 2920w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2720x1813.jpg.webp 2720w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2520x1680.jpg.webp 2520w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2320x1547.jpg.webp 2320w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2120x1413.jpg.webp 2120w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1920x1280.jpg.webp 1920w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1720x1147.jpg.webp 1720w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1675x1117.jpg.webp 1675w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1490x993.jpg.webp 1490w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1305x870.jpg.webp 1305w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1120x747.jpg.webp 1120w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-940x627.jpg.webp 940w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-765x510.jpg.webp 765w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-610x407.jpg.webp 610w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-460x307.jpg.webp 460w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-348x232.jpg.webp 348w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-260x173.jpg.webp 260w" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(min-width: 1600px) calc(100vw - 244px), (min-width: 1280px) calc(100vw - 200px), (min-width: 1024px) calc(100vw - 150px), 100vw" type="image/webp">
+      <source data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized.jpg 3000w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2920x1947.jpg 2920w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2720x1813.jpg 2720w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2520x1680.jpg 2520w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2320x1547.jpg 2320w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-2120x1413.jpg 2120w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1920x1280.jpg 1920w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1720x1147.jpg 1720w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1675x1117.jpg 1675w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1490x993.jpg 1490w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1305x870.jpg 1305w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1120x747.jpg 1120w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-940x627.jpg 940w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-765x510.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-610x407.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-460x307.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-348x232.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-260x173.jpg 260w" sizes="(min-width: 1600px) calc(100vw - 244px), (min-width: 1280px) calc(100vw - 200px), (min-width: 1024px) calc(100vw - 150px), 100vw" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" type="image/jpeg">
+        <img class="o-picture__image lazyload " data-src="https://www.xfive.co/wp-content/uploads/2019/07/joey-kyber-132520-unsplash-resized-1675x1117.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+  </picture>
+      <figcaption class="o-picture__caption">
+      Photo by <a href="https://unsplash.com/photos/45FJgZMXCK8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joey Kyber</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+    </figcaption>
+  </figure>
+    </div>
+
+    <div class="o-wrapper o-wrapper--extreme">
+      <div class="o-text-content o-text-content--no-mark">
+        <p class="c-excerpt">
+          Xfive has undergone a brand refresh. In this article we will take a closer look into how we built our new website.
+        </p>
+
+        <div class="c-post__content o-wysiwyg-content">
+          <div>
+<p>In 2016 our company rebranded to Xfive. <a href="https://www.xfive.co/blog/xfive-designed-and-built-for-performance/">We focused on performance</a> when building a new website back then. The goal of this year&rsquo;s brand refresh was to better support our business development.</p>
+<div class="lwptoc lwptoc-autoWidth lwptoc-inherit" data-smooth-scroll="0"><div class="lwptoc_i">    <div class="lwptoc_header">
+        <b class="lwptoc_title">Contents</b>            </div>
+<div class="lwptoc_items lwptoc_items-visible">
+    <div class="lwptoc_itemWrap"><div class="lwptoc_item">    <a href="#key-website-characteristics">
+                <span class="lwptoc_item_label">Key website characteristics</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#new-design">
+                <span class="lwptoc_item_label">New design</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#chisel-based-wordpress-website">
+                <span class="lwptoc_item_label">Chisel based WordPress website</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#development-workflow">
+                <span class="lwptoc_item_label">Development workflow</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#salesforce-integration">
+                <span class="lwptoc_item_label">Salesforce integration</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#performance">
+                <span class="lwptoc_item_label">Performance</span>
+    </a>
+    <div class="lwptoc_itemWrap"><div class="lwptoc_item">    <a href="#webp-images">
+                <span class="lwptoc_item_label">WebP images</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#performance-results">
+                <span class="lwptoc_item_label">Performance results</span>
+    </a>
+    </div></div></div><div class="lwptoc_item">    <a href="#security">
+                <span class="lwptoc_item_label">Security</span>
+    </a>
+    </div><div class="lwptoc_item">    <a href="#conclusion">
+                <span class="lwptoc_item_label">Conclusion</span>
+    </a>
+    </div></div></div>
+</div></div>
+<h2><span id="key-website-characteristics">Key website characteristics</span>
+</h2>
+<p>Our new website has the following key characteristics:</p>
+<ul>
+<li>brand new design by <a href="https://dribbble.com/obys" target="_blank" rel="noopener noreferrer">obys agency</a>
+</li>
+<li>modern WordPress theme built with our development framework <a href="https://www.getchisel.co/" target="_blank" rel="noopener noreferrer">Chisel</a>
+</li>
+<li>
+<a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">GitLab</a> based development workflow with an automatic deployment to <a href="https://pantheon.io/docs/pantheon-workflow/" target="_blank" rel="noopener noreferrer">Pantheon hosting</a>
+</li>
+<li>custom integration of forms with Salesforce</li>
+<li>solid performance</li>
+<li>strict <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP" target="_blank" rel="noopener noreferrer">Content Security Policy</a>
+</li>
+</ul>
+<p>Let&rsquo;s take a look at these in more detail.</p>
+<h2><span id="new-design">New design</span>
+</h2>
+<p>The main requirement for the brand refresh was to give our brand a more professional look so it better reflects our experience.</p>
+<div id="attachment_4530" class="wp-caption alignnone">
+<img aria-describedby="caption-attachment-4530" loading="lazy" class="wp-image-4530 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="398" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2.jpg" data-srcset="https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2.jpg 780w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2-765x390.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2-610x311.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2-460x235.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2-348x178.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-logo2-260x133.jpg 260w"><p id="caption-attachment-4530" class="wp-caption-text">The new logo looks more confident and stable in a visual plan</p>
+</div>
+<div id="attachment_4532" class="wp-caption alignnone">
+<img aria-describedby="caption-attachment-4532" loading="lazy" class="wp-image-4532 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="517" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette.jpg" data-srcset="https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette.jpg 780w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette-765x507.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette-610x404.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette-460x305.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette-348x231.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/06/xfive-old-vs-new-color-palette-260x172.jpg 260w"><p id="caption-attachment-4532" class="wp-caption-text">The main brand color is more reddish to reflect the desire for growth and development</p>
+</div>
+<p>The design of our website utilizes parts of the new logo as color accents and background patterns. Generous usage of white space and big typography of the newly selected font, Manrope, sets up a good visual hierarchy. You can check out more details of the new design in the <a href="https://www.behance.net/gallery/80798343/xFive-rebranding-website-redesign" target="_blank" rel="noopener noreferrer">obys case study</a>.</p>
+<h2><span id="chisel-based-wordpress-website">Chisel based WordPress website</span>
+</h2>
+<p>Our website runs on Chisel, our custom <a href="https://www.getchisel.co/">WordPress development framework</a>. Its main features are:</p>
+<ul>
+<li>
+<a href="https://www.upstatement.com/timber/">Timber</a> for a faster and easier way to build themes</li>
+<li>Chisel WordPress starter theme with a logical, easy to follow structure</li>
+<li>
+<a href="http://gulpjs.com/">Gulp</a> build system with <a href="https://www.browsersync.io/">Browsersync</a> and <a href="https://github.com/sindresorhus/gulp-rev">gulp-rev</a> support</li>
+<li>
+<a href="http://twig.sensiolabs.org/">Twig</a> templating engine and SCSS with <a href="https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/">ITCSS architecture</a>
+</li>
+<li>
+<a href="https://webpack.js.org/">webpack</a> and ES6 with <a href="https://babeljs.io/">Babel</a>
+</li>
+<li>stylelint, Prettier and ESLint with <a href="https://github.com/xfiveco/eslint-config-chisel">config tailored for Chisel</a> and <a href="https://prettier.io/">Prettier</a> synced together for consistent and hassle free code formatting</li>
+</ul>
+<p>You can read more about WordPress development with Timber in our blog post <a href="https://www.xfive.co/blog/mvc-like-wordpress-development-acf-timber/">An MVC-like WordPress Development with ACF and Timber</a>.</p>
+<div id="attachment_4690" class="wp-caption alignnone">
+<a href="https://www.upstatement.com/timber/"><img aria-describedby="caption-attachment-4690" loading="lazy" class="wp-image-4690 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="525" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/07/timber.jpg" data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/timber.jpg 780w, https://www.xfive.co/wp-content/uploads/2019/07/timber-765x515.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/07/timber-610x411.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/07/timber-460x310.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/07/timber-348x234.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/07/timber-260x175.jpg 260w"></a><p id="caption-attachment-4690" class="wp-caption-text">Timber by Upstatement; Xfive is <a href="https://www.upstatement.com/timber/#hire" target="_blank" rel="noopener noreferrer">a Timber Pro company</a></p>
+</div>
+<p>When it comes to the front-end, the redesign of our old website was the first time we used <a href="https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/">ITCSS</a>. Three years later and we are still big proponents of ITCSS, which is an integral part of Chisel.</p>
+<p>Even though its usage is common with WordPress websites, we don&rsquo;t rely on jQuery. We rather write vanilla JavaScript modules that are transpiled using Babel.</p>
+<h2><span id="development-workflow">Development workflow</span>
+</h2>
+<p>We developed our website on a self hosted instance of <a href="https://about.gitlab.com/">GitLab</a>. GitLab provides solid project management features, for example, <a href="https://docs.gitlab.com/ee/user/project/issue_board.html">issue boards</a> which you can use as Kanban boards.</p>
+<div id="attachment_4693" class="wp-caption alignnone">
+<img aria-describedby="caption-attachment-4693" loading="lazy" class="wp-image-4693 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="441" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban.jpg" data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban.jpg 780w, https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban-765x433.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban-610x345.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban-460x260.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban-348x197.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/07/gitlab-kanban-260x147.jpg 260w"><p id="caption-attachment-4693" class="wp-caption-text">You can use GitLab issue boards as Kanban boards</p>
+</div>
+<p>In addition to that, GitLab has advanced Continuous Integration / Deployment features which we use to build the theme front-end and automatically deploy files to the <a href="https://pantheon.io/">Pantheon</a> hosting.</p>
+<p>This setup could use some improvements yet, like supporting Pantheon upstreams. Currently we can only update WordPress from local instance and not from the Pantheon dashboard. Anyway, overall it nicely fits our Chisel based development workflow.</p>
+<h2><span id="salesforce-integration">Salesforce integration</span>
+</h2>
+<p>We wanted to improve <a href="https://www.salesforce.com/" target="_blank" rel="noopener noreferrer">Salesforce</a> integration in the new version of our website. We used a Gravity Forms add-on for sending form submissions to Salesforce, however, we wanted to have better control over the setup.</p>
+<p>This time we did a custom implementation of <a href="https://help.salesforce.com/articleView?id=setting_up_web-to-lead.htm&amp;type=5">Salesforce&rsquo;s Web To Lead</a> functionality. This allows us to use Ajax for sending out the overlay <a href="#work-with-us">Work with us</a> form and also to store custom data like UTM parameters to Salesforce. We offload files uploads to Amazon S3.</p>
+<div id="attachment_4694" class="wp-caption alignnone">
+<img aria-describedby="caption-attachment-4694" loading="lazy" class="wp-image-4694 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="465" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you.jpg" data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you.jpg 780w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you-765x456.jpg 765w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you-610x364.jpg 610w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you-460x274.jpg 460w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you-348x207.jpg 348w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-thank-you-260x155.jpg 260w"><p id="caption-attachment-4694" class="wp-caption-text">Thank you message in the overlay form &ndash; custom implementation allows us to use Ajax for Salesforce Web To Lead functionality</p>
+</div>
+<p>Once the lead is stored in Salesforce, Salesforce sends an email confirmation to the client, as well as, a notification about the new lead to the operational team. WordPress sends a notification with the lead data to a log email &ndash; just in case the lead wasn&rsquo;t stored in Salesforce for some reason.</p>
+<p>Finally, we&rsquo;ve decided to use <a href="https://developers.google.com/recaptcha/docs/v3" target="_blank" rel="noopener noreferrer">Google reCAPTCHA v3</a> to protect our forms. So far it works reliably and together with the JavaScript based forms it has reduced spam entries to practically zero.</p>
+<p>Obviously, this custom solution took us a bit longer to implement. Nonetheless, it gives us plenty of options for the future improvements (eg. geolocation of the leads). It&rsquo;s also part of our strategy of extending our services to Salesforce development. If you need a custom Salesforce integration, don&rsquo;t hesitate to <a href="https://www.xfive.co/contact/">contact us</a>.</p>
+<h2><span id="performance">Performance</span>
+</h2>
+<p>Performance was the main focus of our old website. It had downgraded over time and further improvements were limited by our previous hosting. That&rsquo;s why we switched to <a href="https://pantheon.io/">Pantheon</a>, which offers great performance out-of-box thanks to global CDN and<a href="https://pantheon.io/features/advanced-caching"> advanced caching</a>. Chisel itself puts a lot of emphasis on <a href="https://www.getchisel.co/docs/development/performance/">performance</a> too so we had solid foundations to build on.</p>
+<h3><span id="webp-images">WebP images</span>
+</h3>
+<p>We certainly wanted to use <a href="https://en.wikipedia.org/wiki/WebP">WebP</a> images on our new website. With Edge adding <a href="https://caniuse.com/#feat=webp">support for the WebP images</a> last year and Firefox this year, we felt it was the right time.</p>
+<p>Eventually, we implemented WebP images using <a href="https://ewww.io/">EWWW cloud compression</a>. This service optimizes the original JPG file, generates a WebP version of it, and stores it back to your server.</p>
+<p>Since the name of the generated WebP image only differs by suffix, we could easily implement a solution with appropriate JPG fallback in our picture component in the Twig templates:</p>
+  <pre><code class="language-markup">{% set thumbnail = Image(thumbnail) %}
+{% set tag = caption is not empty ? 'figure' : 'div' %}
+{% set defaultSize = defaultSize is not empty ? defaultSize : 'full' %}
+{% set defaultSizeImg = thumbnail.src(defaultSize) %}
+{% set sizes = sizes is not empty ? sizes : thumbnail.img_sizes %}
+
+&lt;{{tag}} class="{{ className('o-picture', size, still ? 'still', contain ? 'contain') }} {{ className }}" {{ attrs }}&gt;
+  &lt;picture class="o-picture__inner"&gt;
+    {% set srcset = thumbnail.srcset %}
+    {% if srcset %}
+      &lt;source data-srcset="{{ srcset | replace({'.jpg ': '.jpg.webp '}) }}" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="{{ sizes }}" type="image/webp"&gt;
+      &lt;source data-srcset="{{ srcset }}" sizes="{{ sizes }}" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" type="image/jpeg"&gt;
+    {% endif %}
+    &lt;img class="o-picture__image lazyload {{ preload ? 'lazypreload' : '' }}" data-src="{{ thumbnail.src(defaultSize) }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="{{ altText ?: thumbnail.alt }}"&gt;
+  &lt;/picture&gt;
+  {% if caption is not empty %}
+    &lt;figcaption class="o-picture__caption"&gt;
+      {{ caption }}
+    &lt;/figcaption&gt;
+  {% endif %}
+&lt;/{{tag}}&gt;</code></pre>
+
+<p>Next, we implemented lazy loading of images and YouTube videos with <a href="https://github.com/aFarkas/lazysizes">Lazysizes</a> library. Below is a custom implementation for content images and videos that uses <a href="https://www.php.net/manual/en/class.domdocument.php">DOMDocument</a> class to parse the post content.</p>
+  <pre><code class="language-php">&lt;?php
+
+namespace Chisel;
+
+/**
+ * Class Media
+ * @package Chisel
+ *
+ * Default media settings for Chisel
+ */
+class Media {
+
+  public function __construct() {
+    add_filter( 'the_content', array( $this, 'lazyLoadContentImages' ), 20 );
+    if ( !is_admin() ) {
+      add_filter( 'embed_oembed_html', array( $this, 'lazyLoadYoutubeVideos' ), 100, 4 );
+    }
+  }
+
+  /**
+   * Lazy load content images
+   * @param $content
+   */
+  function lazyLoadContentImages( $content ) {
+    if ( empty( $content ) ) {
+       return $content;
+    }
+
+    $src_replace = 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==';
+    return $this-&gt;setLazyLoad($content, 'img', $src_replace);
+  }
+
+  /**
+   * Lazy load YouTube Videos
+   */
+  function lazyLoadYoutubeVideos( $cache, $url, $attr, $post_id ) {
+
+    if ( false !== strpos( $url, "youtube.com") || false !== strpos( $url, "youtu.be" ) ) {
+      $cache = $this-&gt;setLazyLoad($cache, 'iframe', 'about:blank');
+    }
+    return $cache;
+  }
+
+  /**
+   * Set lazy load
+   *
+   * Adds lazyload class to element and replaces src with data-src
+   *
+   * @param string $html content to process
+   * @param string $tag name of HTML element
+   * @param string $src_replace src replacement string
+   * @return string $html
+   */
+  private function setLazyLoad( $html, $tag, $src_replace ) {
+
+    $dom = new \DOMDocument();
+
+    libxml_use_internal_errors( true );
+
+    $dom-&gt;loadHTML( '&lt;div&gt;' . mb_convert_encoding( $html, 'HTML-ENTITIES', 'UTF-8' ) . '&lt;/div&gt;', LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD );
+
+    libxml_clear_errors();
+
+    foreach ( $dom-&gt;getElementsByTagName( $tag ) as $element ) {
+      $classes = $element-&gt;getAttribute( 'class' );
+      $classes .= " lazyload";
+      $element-&gt;setAttribute( 'class', $classes );
+
+      $src = $element-&gt;getAttribute( 'src' );
+      $element-&gt;setAttribute( 'data-src', $src );
+      $element-&gt;setAttribute( 'src', $src_replace );
+
+      if ( $element-&gt;hasAttribute( 'srcset' ) ) {
+        $srcset = $element-&gt;getAttribute( 'srcset' );
+        $element-&gt;setAttribute( 'data-srcset', $srcset );
+        $element-&gt;setAttribute( 'srcset', $src_replace . ' 1w' );
+      }
+
+      if ( $element-&gt;hasAttribute( 'frameborder' ) ) {
+        $element-&gt;removeAttribute( 'frameborder' );
+      }
+
+      $html = $dom-&gt;saveHTML();
+    }
+
+    return $html;
+  }
+}</code></pre>
+
+<h3><span id="performance-results">Performance results</span>
+</h3>
+<p>One of the best tools to detect and find solutions to potential issues with performance, usability, accessibility and SEO is <a href="https://developers.google.com/web/tools/lighthouse/">Google Lighthouse</a>. We used it early and often in our development process.</p>
+<p>Initially, we achieved very good performance results. However, when we added 3rd party tools like <a href="https://www.drift.com/">Drift</a> and <a href="https://www.hotjar.com/">Hotjar</a> to the site, performance got significantly worse.</p>
+<blockquote><p>3rd party tools are performance killers - one tool can throw much of your previous effort out of the window</p></blockquote>
+<div id="attachment_4700" class="wp-caption alignnone">
+<img aria-describedby="caption-attachment-4700" loading="lazy" class="size-full wp-image-4700 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="780" height="783" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(max-width: 780px) 100vw, 780px" data-src="https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools.png" data-srcset="https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools.png 780w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-150x150.png 150w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-765x768.png 765w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-610x612.png 610w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-460x462.png 460w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-348x349.png 348w, https://www.xfive.co/wp-content/uploads/2019/07/xfive-perf-3rd-party-tools-260x261.png 260w"><p id="caption-attachment-4700" class="wp-caption-text">Comparison of Lighthouse results without (left) and with Drift and Hotjar (right). (Performance is a bit better on our regular site with Pantheon caching enabled.)</p>
+</div>
+<p>Since our new website was quite a change from the previous one, we cannot afford to stay in blind when it comes to how our visitors use it. As soon as things settle down, we&rsquo;ll consider removing Hotjar at least.</p>
+<h2><span id="security">Security</span>
+</h2>
+<p>Despite hosting our new website in very secure environment at Pantheon we further wanted to increase the site&rsquo;s security. We implemented a strict <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP">Content Security Policy</a>. In WordPress it&rsquo;s a bit tricky as plugins tend to generate inline styles and scripts, not to mention 3rd party tools.</p>
+<blockquote><p>The process of setting CSP on a WordPress website was a bit cumbersome, but in return we got <a href="https://observatory.mozilla.org/analyze/www.xfive.co" target="_blank" rel="noopener noreferrer">A+ from Mozilla Observatory</a></p></blockquote>
+<p>Using <code>unsafe-inline</code> on <code>script-src</code> policy would help here but that makes the whole CSP almost pointless. We&rsquo;ve found that the better solution was to add script and styles hashes to CSP one by one. Browsers like Google Chrome conveniently display a hash of falling script or style in the console so you can copy it from there. Contrary to nonce which needs to have a unique value on each request, hashes are more favorable to HTML caching too.</p>
+<h2><span id="conclusion">Conclusion</span>
+</h2>
+<p>For us, developing a new version of our company website is an opportunity to explore new approaches. We can later integrate them to our development workflow so our customers can benefit from them too. Three years ago it was ITCSS and performance optimization, this year we focused on custom Salesforce integration, WebP images and security.</p>
+<p>The developer in us might cry when we see how the performance of our website downgrades after adding tools like Drift or Hotjar. But we also understand that to support the business goals of modern websites, compromises are sometimes necessary. If you are interested in utilizing our experience with <a href="https://www.xfive.co/service/wordpress-development/">advanced WordPress development</a>, feel free to <a href="https://www.xfive.co/contact/">contact us</a>.</p>
+</div>
+
+        </div>
+
+        <ul class="c-share-buttons">
+  <li class="c-share-buttons__list-item">
+    <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.xfive.co%2Fblog%2Fxfive-2019-designed-built-for-business%2F&amp;text=Xfive.co%202019%20%26%238211%3B%20Designed%20and%20Built%20for%20Business " title="Share on Twitter" aria-label="Share on Twitter" target="_blank" rel="noopener" class="c-share-button c-share-button--twitter">
+      <div class="c-share-button__icon-wrapper">
+        <div class="o-icon">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-twitter" />
+  </svg>
+</div>
+      </div>
+      <div class="c-share-button__counter"></div>
+    </a>
+  </li>
+  <li class="c-share-buttons__list-item">
+    <a href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.xfive.co%2Fblog%2Fxfive-2019-designed-built-for-business%2F" title="Share on Facebook" aria-label="Share on Facebook" target="_blank" rel="noopener" class="c-share-button c-share-button--facebook js-share-button" data-post-url="https&#x3A;&#x2F;&#x2F;www.xfive.co&#x2F;blog&#x2F;xfive-2019-designed-built-for-business&#x2F;">
+      <div class="c-share-button__icon-wrapper">
+        <div class="o-icon">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-facebook" />
+  </svg>
+</div>
+      </div>
+      <div class="c-share-button__counter js-fb-count"></div>
+    </a>
+  </li>
+  <li class="c-share-buttons__list-item">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.xfive.co%2Fblog%2Fxfive-2019-designed-built-for-business%2F" title="Share on LinkedIn" aria-label="Share on LinkedIn" target="_blank" rel="noopener" class="c-share-button c-share-button--linkedin">
+      <div class="c-share-button__icon-wrapper">
+        <div class="o-icon">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-linkedin" />
+  </svg>
+</div>
+      </div>
+      <div class="c-share-button__counter"></div>
+    </a>
+  </li>
+</ul>
+
+      </div>
+    </div>
+
+    <section class="o-section o-section--thin">
+      <div class="o-wrapper o-wrapper--extreme">
+        <div class="o-text-content o-text-content--no-mark">
+          <h3>About the author</h3>
+
+          <div class="c-author-post">
+            <div class="c-author-post__image-wrapper">
+              <img
+                src="https://secure.gravatar.com/avatar/5042a5d6a022f26a68263e33de6cc840?s=150&amp;d=mm&amp;r=g"
+                class="c-author-post__image"
+                alt="Lubos Kmetko"
+              />
+            </div>
+
+            <div class="c-author-post__content">
+              <p class="c-author-post__details">
+                <span>Lubos Kmetko</span>
+                                  <span class="c-post__meta-sep">|</span>
+                  <span> <a href="https://www.linkedin.com/in/luboskmetko/" target="_blank" rel="noopener">LinkedIn</a></span>
+                              </p>
+              <p class="c-author-post__desc">Lubos Kmetko started to work for Xfive as a front-end developer in 2006. He currently helps with business operations and writes for the Xfive blog.</p>
+
+              
+<a
+  class="
+    c-arrow-button c-arrow-button--tag-a c-arrow-button--has-hover c-arrow-button--arrow-hidden
+    u-hidden-medium-up
+    
+    
+    
+    
+  "
+  href="https://www.xfive.co/blog/author/lubos-kmetko/"
+  
+  
+  
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          More from Lubos
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</a>
+              
+<a
+  class="
+    c-arrow-button c-arrow-button--tag-a c-arrow-button--has-hover
+    u-hidden-medium-down
+    
+    
+    js-arrow-button-hover
+    
+  "
+  href="https://www.xfive.co/blog/author/lubos-kmetko/"
+  
+  
+  
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          More from Lubos
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+                  <section id="comments"></section>
+      
+      <section class="o-section o-section--dark o-x-corner o-x-corner--white o-x-corner--sidebar-excluded" id="comment-form">
+        <div class="o-wrapper o-wrapper--extreme">
+          <div class="o-text-content o-text-content--no-mark">
+            <div class="c-comment-form">
+  <h3>Would you like to add something?</h3>
+  <p class="c-comment-form__note">All fields are required. Your email address will not be published.</p>
+  <form class="o-form o-form--light" method="post" action="https://www.xfive.co/wp-comments-post.php">
+          <div class="o-form__row o-form__row--half">
+        <input name="author" type="text" id="add_author" class="o-form__input placeholder-shown js-input-float" required>
+        <label for="add_author">Name*</label>
+      </div>
+      <div class="o-form__row o-form__row--half">
+        <input name="email" type="email" id="add_email" class="o-form__input placeholder-shown js-input-float" value="" required>
+        <label for="add_email">Email*</label>
+      </div>
+        <div class="o-form__row">
+      <textarea name="comment" id="add_comment" rows="1" class="o-form__input placeholder-shown js-input-float js-input-expand" required></textarea>
+      <label for="add_comment">Message*</label>
+    </div>
+    <input name="comment_post_ID" value="4681" type="hidden">
+    <input name="comment_parent"  value="0" type="hidden">
+    
+  <input type="submit" class="js-button-submit-submitter u-hidden" />
+<div
+  class="
+    c-arrow-button c-arrow-button--tag-button c-arrow-button--is-active
+    
+    js-button-keyboard-trigger
+    js-button-submit
+    
+    
+  "
+  
+  
+  role="button" tabindex="0"
+  
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          Submit
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</div>
+  </form>
+</div>
+          </div>
+        </div>
+      </section>
+
+    
+          <section class="o-section">
+        <div class="o-wrapper o-wrapper--main">
+          <h2 class="o-heading-with-mark">Related blog posts</h2>
+          <div class="c-tease-posts">
+                          <article class="c-tease-posts__item" id="tease-2772">
+      <a href="https://www.xfive.co/blog/xfive-designed-and-built-for-performance/" aria-label="Xfive.co &#8211; Designed and Built for Performance">
+      
+<div class="o-picture o-picture--blog-thumbnail o-tile__picture" >
+  <picture class="o-picture__inner">
+              <source data-srcset="https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920.jpg.webp 1675w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1490x993.jpg.webp 1490w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1305x869.jpg.webp 1305w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1120x746.jpg.webp 1120w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-940x626.jpg.webp 940w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-765x510.jpg.webp 765w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-610x406.jpg.webp 610w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-460x306.jpg.webp 460w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-348x232.jpg.webp 348w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-260x173.jpg.webp 260w" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(min-width: 1024px) calc((100vw - ((100vw - 80px) * 0.2 + 20px)) / 2), (min-width: 768px) calc((100vw - 40px) / 2), 100vw" type="image/webp">
+      <source data-srcset="https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920.jpg 1675w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1490x993.jpg 1490w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1305x869.jpg 1305w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1120x746.jpg 1120w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-940x626.jpg 940w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-765x510.jpg 765w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-610x406.jpg 610w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-460x306.jpg 460w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-348x232.jpg 348w, https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-260x173.jpg 260w" sizes="(min-width: 1024px) calc((100vw - ((100vw - 80px) * 0.2 + 20px)) / 2), (min-width: 768px) calc((100vw - 40px) / 2), 100vw" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" type="image/jpeg">
+        <img class="o-picture__image lazyload " data-src="https://www.xfive.co/wp-content/uploads/2016/05/car-race-438467_1920-1675x1116.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+  </picture>
+  </div>
+    </a>
+    <div class="c-tease-posts__content">
+          <p class="c-tease-posts__meta">
+        May 12, 2016 <span class="c-tease-posts__meta-sep">|</span>
+        <a href="/blog/author/lubos-kmetko/">Lubos Kmetko</a>
+        <span class="u-hidden-small-down">
+          <span class="c-tease-posts__meta-sep">|</span>
+          <a href="https://www.xfive.co/blog/category/performance/">Performance</a>
+        </span>
+      </p>
+        <h2 class="c-tease-posts__title"><a href="https://www.xfive.co/blog/xfive-designed-and-built-for-performance/">Xfive.co &#8211; Designed and Built for Performance</a></h2>
+     <p>In these times of <a href="https://vimeo.com/190908762">website obesity</a>, we've made our website four times leaner than the average. How did we do it?</p>   </div>
+</article>
+                          <article class="c-tease-posts__item" id="tease-2645">
+      <a href="https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/" aria-label="ITCSS: Scalable and Maintainable CSS Architecture">
+      
+<div class="o-picture o-picture--blog-thumbnail o-tile__picture" >
+  <picture class="o-picture__inner">
+              <source data-srcset="https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-scaled.jpg.webp 2560w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1536x1024.jpg.webp 1536w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2048x1365.jpg.webp 2048w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2920x1947.jpg.webp 2920w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2720x1813.jpg.webp 2720w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2520x1680.jpg.webp 2520w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2320x1547.jpg.webp 2320w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2120x1413.jpg.webp 2120w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1920x1280.jpg.webp 1920w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1720x1147.jpg.webp 1720w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1675x1117.jpg.webp 1675w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1490x993.jpg.webp 1490w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1305x870.jpg.webp 1305w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1120x747.jpg.webp 1120w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-940x627.jpg.webp 940w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-765x510.jpg.webp 765w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-610x407.jpg.webp 610w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-460x307.jpg.webp 460w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-348x232.jpg.webp 348w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-260x173.jpg.webp 260w" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" sizes="(min-width: 1024px) calc((100vw - ((100vw - 80px) * 0.2 + 20px)) / 2), (min-width: 768px) calc((100vw - 40px) / 2), 100vw" type="image/webp">
+      <source data-srcset="https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-scaled.jpg 2560w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1536x1024.jpg 1536w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2048x1365.jpg 2048w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2920x1947.jpg 2920w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2720x1813.jpg 2720w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2520x1680.jpg 2520w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2320x1547.jpg 2320w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-2120x1413.jpg 2120w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1920x1280.jpg 1920w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1720x1147.jpg 1720w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1675x1117.jpg 1675w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1490x993.jpg 1490w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1305x870.jpg 1305w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1120x747.jpg 1120w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-940x627.jpg 940w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-765x510.jpg 765w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-610x407.jpg 610w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-460x307.jpg 460w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-348x232.jpg 348w, https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-260x173.jpg 260w" sizes="(min-width: 1024px) calc((100vw - ((100vw - 80px) * 0.2 + 20px)) / 2), (min-width: 768px) calc((100vw - 40px) / 2), 100vw" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== 1w" type="image/jpeg">
+        <img class="o-picture__image lazyload " data-src="https://www.xfive.co/wp-content/uploads/2016/02/itcss-featured2021a-1675x1117.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+  </picture>
+  </div>
+    </a>
+    <div class="c-tease-posts__content">
+          <p class="c-tease-posts__meta">
+        Oct 21, 2021 <span class="c-tease-posts__meta-sep">|</span>
+        <a href="/blog/author/lubos-kmetko/">Lubos Kmetko</a>
+        <span class="u-hidden-small-down">
+          <span class="c-tease-posts__meta-sep">|</span>
+          <a href="https://www.xfive.co/blog/category/web-development/">Web Development</a>
+        </span>
+      </p>
+        <h2 class="c-tease-posts__title"><a href="https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/">ITCSS: Scalable and Maintainable CSS Architecture</a></h2>
+     <p>How do I make my CSS scalable and maintainable? It’s a concern for every front-end developer. <abbr title="Inverted Triangle CSS">ITCSS</abbr> has an answer.</p>   </div>
+</article>
+                      </div>
+          <div class="c-all-link c-all-link--smaller-top-margin">
+  <a href="/blog/" class="c-all-link__link ">
+    All Posts> 
+
+    <svg class="c-all-link__svg js-all-links-link" viewBox="0 0 150 35" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+        <linearGradient id="fill-all-posts" class="c-all-link__fill js-all-links-link-fill" x1="0" y1="0" x2="0.001" y2="0">
+          <stop offset="0.5" stop-color="#dd2424"/>
+          <stop offset="0.5" stop-opacity="0"/>
+        </linearGradient>
+
+        
+        <linearGradient id="stroke-all-posts" class="c-all-link__stroke js-all-links-link-stroke" x1="0" y1="0" x2="0.001" y2="0">
+          <stop offset="0.5" stop-color="#dd2424"/>
+          <stop offset="0.5" stop-color="#757575"/>
+        </linearGradient>
+      </defs>
+
+      <title>All Posts</title>
+      <text class="c-all-link__text" text-anchor="middle" x="50%" y="75%">
+        <tspan fill="url(#fill-all-posts)" stroke="url(#stroke-all-posts)">
+          All Posts>
+        </tspan>
+              </text>
+      </svg>
+
+  </a>
+</div>
+        </div>
+      </section>
+    
+  </article>
+
+  
+  <section class="o-section o-section--more-v-spacing o-section--dark o-section--above-sidebar c-banner c-banner--dark js-section-above-sidebar">
+    <div class="o-wrapper o-wrapper--main c-banner__wrapper">
+      <div class="c-banner__content">
+        <h2 class="o-heading-with-mark o-heading-with-mark--split c-banner__heading">Start your project with us</h2>
+
+        <div class="c-banner__cta">
+          
+<a
+  class="
+    c-arrow-button c-arrow-button--tag-a c-arrow-button--is-active
+    js-work-with-us-toggle
+    
+    
+    
+    
+  "
+  href="#get-in-touch"
+  
+  
+  
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          Get in touch
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+          <title>Start your project with us</title>
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  </main>
+
+  <aside class="c-cookies" data-js-cookies>
+  <div class="o-x-corner c-cookies__inner" data-js-cookies-content>
+    <div class="o-wysiwyg-content">
+      <h4>Cookies</h4>
+      <p>We use cookies to ensure you get the best experience on our website. Check out our <a href="https://live-xfive.pantheonsite.io/privacy/">Privacy Policy</a>.</p>
+
+    </div>
+    <div class="c-cookies__action">
+      
+<div
+  class="
+    c-arrow-button c-arrow-button--tag-button c-arrow-button--is-active
+    
+    js-button-keyboard-trigger
+    
+    
+    
+  "
+  
+  
+  role="button" tabindex="0"
+  data-js-cookies-accept
+>
+  <div class="c-arrow-button__inner">
+    <div class="c-arrow-button__inner-left js-arrow-button-inner-left">
+      <div class="c-arrow-button__inner-left-inner">
+        <div class="c-arrow-button__text">
+          Continue
+        </div>
+      </div>
+    </div>
+    <div class="c-arrow-button__inner-arrow">
+      <div class="o-icon o-icon--icon-arrow-right">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-arrow-right" />
+  </svg>
+</div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</aside>
+
+      
+
+
+<footer class="c-footer">
+  <div class="o-wrapper o-wrapper--main">
+    <div class="c-footer__row-wrapper">
+      <div class="c-footer__row">
+        <div class="c-footer__col c-footer__col--xfive">
+          <div class="c-footer__logo">
+            <a href="/" rel="home" class="c-logo" aria-label="Xfive">
+  <div class="c-logo__inner">
+    <svg class="c-logo__icon" role="img">
+      <use xlink:href="#icon-inline-logo"></use>
+    </svg>
+  </div>
+</a>
+          </div>
+          <ul class="c-footer__list c-footer__social-media">
+                        <li class="c-footer__list-el c-footer__social-media-el">
+              <a href="https://www.linkedin.com/company/xfiveco/" class="c-footer__social-media-link" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">
+                <div class="o-icon o-icon--icon-linkedin">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-linkedin" />
+  </svg>
+</div>
+              </a>
+            </li>
+                        <li class="c-footer__list-el c-footer__social-media-el">
+              <a href="https://github.com/xfiveco/" class="c-footer__social-media-link" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                <div class="o-icon o-icon--icon-github">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-github" />
+  </svg>
+</div>
+              </a>
+            </li>
+                        <li class="c-footer__list-el c-footer__social-media-el">
+              <a href="https://twitter.com/xfiveco/" class="c-footer__social-media-link" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                <div class="o-icon o-icon--icon-twitter">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-twitter" />
+  </svg>
+</div>
+              </a>
+            </li>
+                        <li class="c-footer__list-el c-footer__social-media-el">
+              <a href="https://www.facebook.com/xfiveco/" class="c-footer__social-media-link" target="_blank" rel="noopener" title="Facebook" aria-label="Facebook">
+                <div class="o-icon o-icon--icon-facebook">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-facebook" />
+  </svg>
+</div>
+              </a>
+            </li>
+                        <li class="c-footer__list-el c-footer__social-media-el">
+              <a href="https://www.youtube.com/channel/UC4geTDaINIKXYuttisAlM5A" class="c-footer__social-media-link" target="_blank" rel="noopener" title="YouTube" aria-label="YouTube">
+                <div class="o-icon o-icon--icon-youtube">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-youtube" />
+  </svg>
+</div>
+              </a>
+            </li>
+                      </ul>
+          <div class="c-footer__locations">
+            <div class="c-footer__locations-icon">
+              <div class="o-icon o-icon--inline o-icon--icon-pin">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-pin" />
+  </svg>
+</div>
+            </div>
+            <ul class="c-footer__list c-footer__locations-list">
+                              <li class="c-footer__list-el c-footer__locations-el">
+                  <div class="c-footer__locations-el-icon">
+                    <div class="o-icon o-icon--inline o-icon--icon-pin">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-pin" />
+  </svg>
+</div>
+                  </div>
+                  San Francisco
+                </li>
+                              <li class="c-footer__list-el c-footer__locations-el">
+                  <div class="c-footer__locations-el-icon">
+                    <div class="o-icon o-icon--inline o-icon--icon-pin">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-pin" />
+  </svg>
+</div>
+                  </div>
+                  Melbourne
+                </li>
+                              <li class="c-footer__list-el c-footer__locations-el">
+                  <div class="c-footer__locations-el-icon">
+                    <div class="o-icon o-icon--inline o-icon--icon-pin">
+  <svg class="o-icon__symbol">
+        <use xlink:href="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/icons.svg#icon-pin" />
+  </svg>
+</div>
+                  </div>
+                  Krakow
+                </li>
+                          </ul>
+          </div>
+          <div class="c-footer__directories">
+                          <div class="c-footer__clutch">
+                <script src="https://widget.clutch.co/static/js/widget.js" defer></script>
+                <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2" data-height="50" data-clutchcompany-id="102433"></div>
+              </div>
+                        <div class="c-footer__goodfirms">
+              <a href="https://www.goodfirms.co/company/xfive" target="_blank" rel="noopener"><img data-src="https://www.xfive.co/wp-content/themes/xfive-co-chisel/dist/assets/images/goodfirms-badge.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="GoodFirms - Top Web Developer" class="lazyload"></a>
+            </div>
+          </div>
+                      <div class="c-footer__legal">
+              <ul class="c-footer__list">
+                                  <li class="c-footer__list-el">
+                    <a href="https://www.xfive.co/terms/">Terms &#038; Conditions</a>
+                  </li>
+                                  <li class="c-footer__list-el">
+                    <a href="https://www.xfive.co/privacy/">Privacy Policy</a>
+                  </li>
+                              </ul>
+            </div>
+                  </div>
+        <div class="c-footer__col c-footer__col--company">
+                        <nav class="c-footer__menu">
+    <h3 class="c-footer__menu-heading">Company</h3>
+    <div class="c-footer__menu-list-wrapper c-footer__menu-list-wrapper--two-columns">
+      <ul class="c-footer__list c-footer__menu-list">
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-47">
+            <a href="https://www.xfive.co/services/" class="c-footer__menu-link">Services</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-44">
+            <a href="https://www.xfive.co/works/" class="c-footer__menu-link">Work</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-49">
+            <a href="https://www.xfive.co/about/" class="c-footer__menu-link">About</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-50">
+            <a href="https://www.xfive.co/blog/" class="c-footer__menu-link">Blog</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-48">
+            <a href="https://www.xfive.co/contact/" class="c-footer__menu-link">Contact</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-45">
+            <a href="https://www.xfive.co/testimonials/" class="c-footer__menu-link">Testimonials</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-custom menu-item-object-custom menu-item-53">
+            <a href="https://xfive.recruitee.com/" class="c-footer__menu-link">Jobs</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-46">
+            <a href="https://www.xfive.co/terms/" class="c-footer__menu-link">Terms &#038; Conditions</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-51">
+            <a href="https://www.xfive.co/privacy/" class="c-footer__menu-link">Privacy Policy</a>
+          </li>
+              </ul>
+    </div>
+  </nav>
+
+                  </div>
+        <div class="c-footer__col c-footer__col--services">
+                        <nav class="c-footer__menu">
+    <h3 class="c-footer__menu-heading">Services</h3>
+    <div class="c-footer__menu-list-wrapper">
+      <ul class="c-footer__list c-footer__menu-list">
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-service menu-item-5713">
+            <a href="https://www.xfive.co/service/digital-products/" class="c-footer__menu-link">Digital Products</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-service menu-item-5717">
+            <a href="https://www.xfive.co/service/ecommerce-platforms/" class="c-footer__menu-link">Ecommerce Platforms</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-service menu-item-5716">
+            <a href="https://www.xfive.co/service/content-platforms/" class="c-footer__menu-link">Content Platforms</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-service menu-item-5715">
+            <a href="https://www.xfive.co/service/strategy-design/" class="c-footer__menu-link">Strategy &#038; Design</a>
+          </li>
+                  <li class="c-footer__list-el c-footer__menu-el  menu-item menu-item-type-post_type menu-item-object-service menu-item-5714">
+            <a href="https://www.xfive.co/service/websites-web-apps/" class="c-footer__menu-link">Websites &#038; Web Apps</a>
+          </li>
+              </ul>
+    </div>
+  </nav>
+
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-footer__copyright">
+    <div class="o-wrapper">
+      <p class="c-footer__copyright-inner">
+        Copyright &copy; 2005 – 2022 Xfive.co Pty Ltd.<br/>
+        ACN 160 801 285
+      </p>
+    </div>
+  </div>
+</footer>
+    <link rel='stylesheet' id='lwptoc-main-css'  href='https://www.xfive.co/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=2.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.xfive.co/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.js?ver=2.1.4' id='lwptoc-main-js'></script>
+
+  <script src="https://rum-static.pingdom.net/pa-5697c3a3abe53d0928fbfd65.js" async></script>
+</body>
+</html>
